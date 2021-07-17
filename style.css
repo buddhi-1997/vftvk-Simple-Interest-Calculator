@@ -30,8 +30,8 @@ table td
 #compute
 {
     margin-bottom: 10px;
-    background-color: rgb(169, 169, 228);
-    color: white;
+    background-color: rgb(213, 213, 238);
+    color: rgb(0, 0, 0);
     height: 30px;
     width: 150px;
 }
